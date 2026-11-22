@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "name": "Ferrari F80",
+        "description": "The ultimate flagship hypercar and successor to LaFerrari. Inspired by Le Mans-winning technology, it blends a motorsport-derived V6 hybrid powertrain with active aerodynamics to generate a mind-blowing 1,200 horsepower.",
+        "price": 3900000,
+        "priceText": "$3.9 Million USD",
+        "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=600&auto=format&fit=crop",
+        "detailsUrl": "car0.html"
+    },
+    {
+        "id": 1,
+        "name": "Ferrari SF90 XX Stradale",
+        "description": "The first road-legal 'XX' program supercar from Maranello. It takes the SF90 platform to extreme limits with aggressive aero, a massive fixed rear wing, and a tuned hybrid V8 producing 1,016 horsepower.",
+        "price": 890000,
+        "priceText": "$890,000 USD",
+        "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=600&auto=format&fit=crop",
+        "detailsUrl": "car1.html"
+    },
+    {
+        "id": 2,
+        "name": "Ferrari 12Cilindri",
+        "description": "A masterpiece paying homage to Ferrari's legendary lineage. It packs a front-mid naturally aspirated 6.5-liter V12 revving up to 9,500 RPM, enclosed in a futuristic design inspired by classic 1960s GTs.",
+        "price": 423000,
+        "priceText": "$423,000 USD",
+        "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=600&auto=format&fit=crop",
+        "detailsUrl": "car2.html"
+    },
+    {
+        "id": 3,
+        "name": "Ferrari 296 GTB",
+        "description": "Redefining fun to drive, the 296 GTB is Ferrari's revolutionary mid-rear engine sports car featuring a mid-mounted 120-degree V6 paired with an electric motor to unleash 819 horsepower.",
+        "price": 400000,
+        "priceText": "$400,000 USD",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgnPFo2Mg__E37VUEKL5cdmfkmm4qFSTWl8P9vloG_w&s=10",
+        "detailsUrl": "car3.html"
+    },
+    {
+        "id": 4,
+        "name": "Ferrari Purosangue",
+        "description": "Ferrari's first-ever four-door, four-seater vehicle. Powered by a roaring 715-horsepower naturally aspirated V12, it combines supercar acceleration with groundbreaking active suspension and daily utility.",
+        "price": 280000,
+        "priceText": "$280,000 USD",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--g2OEiPwLb4Rjk-E4Gdfn2PKOrhyHIT1npp_4t7CBQ&s=10",
+        "detailsUrl": "car4.html"
+    },
+    {
+        "id": 5,
+        "name": "Ferrari Daytona SP3",
+        "description": "Part of the ultra-exclusive Icona series, the Daytona SP3 honors 1960s endurance racing prototypes with a breathtaking carbon-fiber mid-engine design and a pure 829-horsepower naturally aspirated V12.",
+        "price": 342000,
+        "priceText": "$342,000 USD",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTFWuX9IytXRPnCtjvJfG8ZDeqcY1gUzs8vN9KXVrdQ&s=10",
+        "detailsUrl": "car5.html"
+    }
+]
